@@ -1,1 +1,1 @@
-Here is description
+Here is description of our project
