@@ -20,10 +20,10 @@
 <p>Яковенко Софья - Создание инструкции, проверка кода функции и исходного кода бота;</p>
 <h2><p> Возможные запросы пользователя, визуализация бота</p></h2>
 
-![5210737122342987841](https://github.com/user-attachments/assets/298fec3a-852e-4e2c-92fc-46e2a1561f22)
+![5210889220019841924 (1)](https://github.com/user-attachments/assets/368b6e89-9511-4544-94bd-1e1b2ff63775)
 
-![5210737122342987842](https://github.com/user-attachments/assets/10a0070d-d618-4571-b29c-6d684576151e)
+![5210889220019841917 (1)](https://github.com/user-attachments/assets/d9260255-776f-4f3e-9fc8-ad150d3f5ea4)
 
-![5210737122342987843](https://github.com/user-attachments/assets/e96d5760-5196-450c-8be4-6b9411fe164f)
+![5210889220019841918](https://github.com/user-attachments/assets/3186f15a-b0de-4eb5-a0a9-4e1cc2b36f7e)
 
-![5210737122342987845](https://github.com/user-attachments/assets/4d57827f-9b7b-4dd7-9882-01748740c54a)
+![5210889220019841922 (1)](https://github.com/user-attachments/assets/d1e65f6d-a2bb-4e5e-8ce8-9b6736a08d64)
